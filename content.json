@@ -27,6 +27,7 @@
             "Action": "EditImage",
             "Target": "Characters/Abigail",
             "FromFile": "assets/AbigailSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -49,6 +50,7 @@
             "Action": "EditImage",
             "Target": "Characters/Alex",
             "FromFile": "assets/AlexSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -71,6 +73,7 @@
             "Action": "EditImage",
             "Target": "Characters/Caroline",
             "FromFile": "assets/CarolineSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -93,6 +96,7 @@
             "Action": "EditImage",
             "Target": "Characters/Clint",
             "FromFile": "assets/ClintSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -115,6 +119,7 @@
             "Action": "EditImage",
             "Target": "Characters/Demetrius",
             "FromFile": "assets/DemetriusSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -137,6 +142,7 @@
             "Action": "EditImage",
             "Target": "Characters/Elliott",
             "FromFile": "assets/ElliottSwim_{{ElliottVariant}}.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -159,6 +165,7 @@
             "Action": "EditImage",
             "Target": "Characters/Emily",
             "FromFile": "assets/EmilySwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -181,6 +188,7 @@
             "Action": "EditImage",
             "Target": "Characters/Evelyn",
             "FromFile": "assets/EvelynSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -203,6 +211,7 @@
             "Action": "EditImage",
             "Target": "Characters/George",
             "FromFile": "assets/GeorgeSwim_{{GeorgeVariant}}.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -225,6 +234,7 @@
             "Action": "EditImage",
             "Target": "Characters/Gus",
             "FromFile": "assets/GusSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -247,6 +257,7 @@
             "Action": "EditImage",
             "Target": "Characters/Haley",
             "FromFile": "assets/HaleySwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -269,6 +280,7 @@
             "Action": "EditImage",
             "Target": "Characters/Harvey",
             "FromFile": "assets/HarveySwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -291,6 +303,7 @@
             "Action": "EditImage",
             "Target": "Characters/Jas",
             "FromFile": "assets/JasSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -313,6 +326,7 @@
             "Action": "EditImage",
             "Target": "Characters/Jodi",
             "FromFile": "assets/JodiSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -335,6 +349,7 @@
             "Action": "EditImage",
             "Target": "Characters/Kent",
             "FromFile": "assets/KentSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -357,6 +372,7 @@
             "Action": "EditImage",
             "Target": "Characters/Leah",
             "FromFile": "assets/LeahSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -379,6 +395,7 @@
             "Action": "EditImage",
             "Target": "Characters/Lewis",
             "FromFile": "assets/LewisSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -401,6 +418,7 @@
             "Action": "EditImage",
             "Target": "Characters/Linus",
             "FromFile": "assets/LinusSwim_{{LinusVariant}}.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -423,6 +441,7 @@
             "Action": "EditImage",
             "Target": "Characters/Marnie",
             "FromFile": "assets/MarnieSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -445,6 +464,7 @@
             "Action": "EditImage",
             "Target": "Characters/Maru",
             "FromFile": "assets/MaruSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -467,6 +487,7 @@
             "Action": "EditImage",
             "Target": "Characters/Pam",
             "FromFile": "assets/PamSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -489,6 +510,7 @@
             "Action": "EditImage",
             "Target": "Characters/Penny",
             "FromFile": "assets/PennySwim_{{PennyVariant}}.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -511,6 +533,7 @@
             "Action": "EditImage",
             "Target": "Characters/Pierre",
             "FromFile": "assets/PierreSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -533,6 +556,7 @@
             "Action": "EditImage",
             "Target": "Characters/Robin",
             "FromFile": "assets/RobinSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -555,6 +579,7 @@
             "Action": "EditImage",
             "Target": "Characters/Sam",
             "FromFile": "assets/SamSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -577,6 +602,7 @@
             "Action": "EditImage",
             "Target": "Characters/Sebastian",
             "FromFile": "assets/sebastianswim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -599,6 +625,7 @@
             "Action": "EditImage",
             "Target": "Characters/Shane",
             "FromFile": "assets/ShaneSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -621,6 +648,7 @@
             "Action": "EditImage",
             "Target": "Characters/Vincent",
             "FromFile": "assets/VincentSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "true",
                 "Season": "summer",
@@ -646,6 +674,7 @@
             "Action": "EditImage",
             "Target": "Characters/Abigail",
             "FromFile": "assets/AbigailSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer",
@@ -666,6 +695,7 @@
             "Action": "EditImage",
             "Target": "Characters/Alex",
             "FromFile": "assets/AlexSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -686,6 +716,7 @@
             "Action": "EditImage",
             "Target": "Characters/Caroline",
             "FromFile": "assets/CarolineSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -706,6 +737,7 @@
             "Action": "EditImage",
             "Target": "Characters/Clint",
             "FromFile": "assets/ClintSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -726,6 +758,7 @@
             "Action": "EditImage",
             "Target": "Characters/Demetrius",
             "FromFile": "assets/DemetriusSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -746,6 +779,7 @@
             "Action": "EditImage",
             "Target": "Characters/Elliott",
             "FromFile": "assets/ElliottSwim_{{ElliottVariant}}.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -766,6 +800,7 @@
             "Action": "EditImage",
             "Target": "Characters/Emily",
             "FromFile": "assets/EmilySwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -786,6 +821,7 @@
             "Action": "EditImage",
             "Target": "Characters/Evelyn",
             "FromFile": "assets/EvelynSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -806,6 +842,7 @@
             "Action": "EditImage",
             "Target": "Characters/George",
             "FromFile": "assets/GeorgeSwim_{{GeorgeVariant}}.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -826,6 +863,7 @@
             "Action": "EditImage",
             "Target": "Characters/Gus",
             "FromFile": "assets/GusSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -846,6 +884,7 @@
             "Action": "EditImage",
             "Target": "Characters/Haley",
             "FromFile": "assets/HaleySwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -866,6 +905,7 @@
             "Action": "EditImage",
             "Target": "Characters/Harvey",
             "FromFile": "assets/HarveySwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -886,6 +926,7 @@
             "Action": "EditImage",
             "Target": "Characters/Jas",
             "FromFile": "assets/JasSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -906,6 +947,7 @@
             "Action": "EditImage",
             "Target": "Characters/Jodi",
             "FromFile": "assets/JodiSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -926,6 +968,7 @@
             "Action": "EditImage",
             "Target": "Characters/Kent",
             "FromFile": "assets/KentSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -946,6 +989,7 @@
             "Action": "EditImage",
             "Target": "Characters/Leah",
             "FromFile": "assets/LeahSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -966,6 +1010,7 @@
             "Action": "EditImage",
             "Target": "Characters/Lewis",
             "FromFile": "assets/LewisSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -986,6 +1031,7 @@
             "Action": "EditImage",
             "Target": "Characters/Linus",
             "FromFile": "assets/LinusSwim_{{LinusVariant}}.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -1006,6 +1052,7 @@
             "Action": "EditImage",
             "Target": "Characters/Marnie",
             "FromFile": "assets/MarnieSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -1026,6 +1073,7 @@
             "Action": "EditImage",
             "Target": "Characters/Maru",
             "FromFile": "assets/MaruSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -1046,6 +1094,7 @@
             "Action": "EditImage",
             "Target": "Characters/Pam",
             "FromFile": "assets/PamSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -1066,6 +1115,7 @@
             "Action": "EditImage",
             "Target": "Characters/Penny",
             "FromFile": "assets/PennySwim_{{PennyVariant}}.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -1086,6 +1136,7 @@
             "Action": "EditImage",
             "Target": "Characters/Pierre",
             "FromFile": "assets/PierreSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -1106,6 +1157,7 @@
             "Action": "EditImage",
             "Target": "Characters/Robin",
             "FromFile": "assets/RobinSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -1126,6 +1178,7 @@
             "Action": "EditImage",
             "Target": "Characters/Sam",
             "FromFile": "assets/SamSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -1146,6 +1199,7 @@
             "Action": "EditImage",
             "Target": "Characters/Sebastian",
             "FromFile": "assets/sebastianswim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer",
@@ -1166,6 +1220,7 @@
             "Action": "EditImage",
             "Target": "Characters/Shane",
             "FromFile": "assets/ShaneSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
@@ -1186,6 +1241,7 @@
             "Action": "EditImage",
             "Target": "Characters/Vincent",
             "FromFile": "assets/VincentSwim.png",
+            "ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 128 },
             "When": {
                 "LuauOnly": "false",
                 "Season": "summer"
