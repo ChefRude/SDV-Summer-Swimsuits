@@ -1,3 +1,5 @@
+This version of my mod is for compatibility with the vanilla SDV portraits and sprites. 
+
 Mod Options via Config.json
 A few NPCs have multiple options, which you can configure in the config.json which will load the first time you run SDV with this mod installed. The config.json file shows these options by default. Please look at the images above to see what these options mean.
 
